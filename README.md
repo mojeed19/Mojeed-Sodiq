@@ -30,8 +30,8 @@
 
 ### 📫 Let’s connect
 
-- **X**: [@yourhandle](https://x.com/yourhandle)  
-- **LinkedIn**: [your‑linkedin](https://linkedin.com/in/yourname)  
-- **Email**: your.email@example.com  
+- **X**: [@yourhandle](https://x.com/@mojeedsodiq17)  
+- **LinkedIn**: [your‑linkedin](https://linkedin.com/in/Mojeed Sodiq)  
+- **Email**: mojeedsodiq2002@gmail.com  
 
 > “The best models are not only accurate – they are explainable, robust, and economically sensible.”
